@@ -1,0 +1,18 @@
+{
+  "name": "video-editing-skills",
+  "version": "0.1.0",
+  "description": "Skills that help ideate and edit short-form social media video: storytelling, scriptwriting, cinematography, color grading, typography, color palettes and captions.",
+  "author": {
+    "name": "iuliacodau"
+  },
+  "repository": "https://github.com/iuliacodau/video-editing-skills",
+  "keywords": [
+    "video",
+    "editing",
+    "social-media",
+    "storytelling",
+    "scriptwriting",
+    "color-grading",
+    "captions"
+  ]
+}

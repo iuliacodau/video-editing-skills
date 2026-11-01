@@ -1,0 +1,16 @@
+{
+  "name": "iuliacodau-skills",
+  "owner": {
+    "name": "iuliacodau"
+  },
+  "metadata": {
+    "description": "Skills for ideating and editing short-form social media video, from story and script to captions and Instagram optimisation."
+  },
+  "plugins": [
+    {
+      "name": "video-editing-skills",
+      "source": "./",
+      "description": "Skills that help ideate and edit short-form social media video: storytelling, scriptwriting, cinematography, color grading, typography, color palettes and captions."
+    }
+  ]
+}
